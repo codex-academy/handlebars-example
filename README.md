@@ -1,6 +1,6 @@
 # Handlebars examples
 
-Short examples of client-side Handlebars.
+Short examples of **client-side** Handlebars.
 
 ## Ohai
 
