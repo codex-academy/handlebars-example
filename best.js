@@ -10,5 +10,4 @@ var data = {
     ]
 };
 
-
 document.getElementById("best-words").innerHTML = template(data);

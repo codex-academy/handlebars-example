@@ -2,6 +2,6 @@ var template = Handlebars.compile(
   document.getElementById("ohai-template").innerHTML
 );
 
-var data = { name: "Steve" };
+var data = { name: "Mojojojo" };
 
 document.getElementById("ohai").innerHTML = template(data);
